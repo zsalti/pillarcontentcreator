@@ -375,64 +375,21 @@ A piece isn't a one-time event. Define the conditions under which this piece get
 
 For each trigger, note: what changes in the piece, and which channels get the re-launch push.
 
-**GATE 8:** Share the launch brief and ask: "Does the launch plan feel right? Any channels missing, or timing that needs adjusting?"
+**GATE 8 (Final):** Share the launch brief and ask: "Does the launch plan feel right? Any channels missing, or timing that needs adjusting? Once you confirm, I'll produce the final deliverable package."
 
 Wait for approval before proceeding.
 
 ---
 
-## Phase 9: Measurement Plan
-
-Define what success looks like before the piece goes live — not after. Retroactive metrics lead to retroactive rationalizations.
-
-Build a **Measurement Card:**
-
-### Primary Metrics (pick 2-3 that map to the piece's goal)
-
-| Goal | Metric | How to measure | Target |
-|---|---|---|---|
-| Drive awareness | Organic reach / impressions | Platform analytics | [set a target] |
-| Build authority | Time-on-page, scroll depth | Site analytics | [set a target] |
-| Generate pipeline | CTAs clicked, form fills | CRM / analytics | [set a target] |
-| Build audience | Newsletter signups, followers | Platform analytics | [set a target] |
-| Earn links/mentions | Backlinks, shares | SEO tools, search | [set a target] |
-
-Choose metrics that match what the brief said this piece was actually for.
-
-### Secondary Signals (qualitative)
-- Comments and replies: what questions are people asking? What objections come up?
-- DMs and emails: who reached out because of this piece?
-- Sales mentions: did any prospects reference this piece?
-- Creator responses: did other writers or creators engage?
-
-### Review Cadence
-- **Day 3:** First read on early engagement. Any surprises?
-- **Day 14:** Full performance read. Is it meeting targets?
-- **Day 60:** Longer tail. Is it still pulling organic traffic or referrals?
-- **At each review:** Decide: leave as-is, update, or relaunch?
-
-### Version Log
-Track content updates the same way software tracks releases:
-```
-v1.0 — [launch date] — original version
-v1.1 — [date] — [what changed and why: new data, new section, reframed angle]
-v2.0 — [date] — [major revision: full relaunch]
-```
-
-**GATE 9 (Final):** Share the measurement card and ask: "Does this capture what success looks like? Once you confirm, I'll produce the final deliverable package."
-
----
-
 ## Final Deliverable Package
 
-Once all gates are approved, produce a single consolidated file named `[topic-slug]-content-product.md` containing:
+Once all gates are approved, produce a single consolidated file named `[YYYY-MM-DD]-[topic-slug]-content-product.md` (using today's date) containing:
 
 1. **Content Brief** (from Phase 1)
 2. **Verified Research Brief** (from Phase 2, clean version)
 3. **Final Draft** (voice-applied, from Phase 7)
 4. **Hook Options** (top 3, from Phase 6)
 5. **Launch Brief** (from Phase 8)
-6. **Measurement Card** (from Phase 9)
 
 Label each section clearly. This file is the full content product — briefing to launch plan — in one place.
 
